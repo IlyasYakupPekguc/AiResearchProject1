@@ -16,6 +16,7 @@ Contents of the readme:
 First of all i'm a second grade student at Gazi University. I want to see what ai is about and learn more about the subject. This is my official seventh project about ai. My first experience was within a compition named Teknofest. After gaining interest in AI i'm willing to learn more about this topic and i think the best way to do that is through projects. So this is my First research based project. While learning i also intend to get a fuller GitHub page. So that's a double win-win. 
 
 2----------------------------------------- THE SUMMARY OF THE PROJECT:
+
 What i plan to do:
 İ want to able to write an AI chat bot that i can talk with just like a human being. İ want to able to ask questions and to be able to have normal conversations.
 
